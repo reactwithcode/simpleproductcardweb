@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/simpleproductcardweb/static/css/main.792281df.chunk.css",
+    "main.js": "/simpleproductcardweb/static/js/main.7c58d649.chunk.js",
+    "main.js.map": "/simpleproductcardweb/static/js/main.7c58d649.chunk.js.map",
+    "runtime-main.js": "/simpleproductcardweb/static/js/runtime-main.6aebdf8b.js",
+    "runtime-main.js.map": "/simpleproductcardweb/static/js/runtime-main.6aebdf8b.js.map",
+    "static/css/2.8ca226e3.chunk.css": "/simpleproductcardweb/static/css/2.8ca226e3.chunk.css",
+    "static/js/2.54afa106.chunk.js": "/simpleproductcardweb/static/js/2.54afa106.chunk.js",
+    "static/js/2.54afa106.chunk.js.map": "/simpleproductcardweb/static/js/2.54afa106.chunk.js.map",
+    "static/js/3.35bd8b05.chunk.js": "/simpleproductcardweb/static/js/3.35bd8b05.chunk.js",
+    "static/js/3.35bd8b05.chunk.js.map": "/simpleproductcardweb/static/js/3.35bd8b05.chunk.js.map",
+    "index.html": "/simpleproductcardweb/index.html",
+    "static/css/2.8ca226e3.chunk.css.map": "/simpleproductcardweb/static/css/2.8ca226e3.chunk.css.map",
+    "static/css/main.792281df.chunk.css.map": "/simpleproductcardweb/static/css/main.792281df.chunk.css.map",
+    "static/js/2.54afa106.chunk.js.LICENSE.txt": "/simpleproductcardweb/static/js/2.54afa106.chunk.js.LICENSE.txt",
+    "static/media/notfound.1877857d.jpeg": "/simpleproductcardweb/static/media/notfound.1877857d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aebdf8b.js",
+    "static/css/2.8ca226e3.chunk.css",
+    "static/js/2.54afa106.chunk.js",
+    "static/css/main.792281df.chunk.css",
+    "static/js/main.7c58d649.chunk.js"
+  ]
+}
